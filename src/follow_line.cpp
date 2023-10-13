@@ -9,7 +9,7 @@
 #include <fstream>
 #include <iostream>
 #include <vector>
-
+//
 // オドメトリから得られる現在の位置
 double robot_x, robot_y;
 double roll, pitch, yaw;
