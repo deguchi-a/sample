@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ida-y/demo2023/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/ida-y/demo2023/src/DynamixelSDK/ros/dynamixel_sdk/include/**",
+        "/home/ida-y/demo2023/src/dynamixel-workbench/dynamixel_workbench_controllers/include/**",
+        "/home/ida-y/demo2023/src/dynamixel-workbench/dynamixel_workbench_operators/include/**",
+        "/home/ida-y/demo2023/src/dynamixel-workbench/dynamixel_workbench_toolbox/include/**",
+        "/home/ida-y/demo2023/src/rosserial/rosserial_server/include/**",
+        "/home/ida-y/demo2023/src/rosserial/rosserial_test/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
